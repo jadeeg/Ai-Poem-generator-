@@ -20,7 +20,7 @@ h1 {
 
  }
 
- #form {
+ #input {
     width: 250px;
     height: 55px;
     border-radius: 50px;
@@ -55,6 +55,12 @@ h1 {
   margin-top: 30px;
   color: #a569bd ;
 
+ }
 
-    
+ #container {
+   font-size: 20px;
+   text-align: center;
+   margin: auto 100px;
+   padding: 50px 50px;
+   color: #633974;
  }
