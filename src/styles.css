@@ -60,7 +60,10 @@ h1 {
  #container {
    font-size: 20px;
    text-align: center;
-   margin: auto 100px;
+   margin: 50px 50px;
    padding: 50px 50px;
+   border-radius: 100px;
    color: #633974;
+  
+
  }
